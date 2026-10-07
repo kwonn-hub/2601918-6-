@@ -1,5 +1,20 @@
-<style>
-   #box {
-       display: block;
-   }
-</style>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS3 Font Property</title>
+    <style>
+  .box {
+ width: 100px; height: 100px;
+ position: absolute;
+ }
+ .box:nth-child(1) { background-color: red; }
+ .box:nth-child(2) { background-color: green; }
+ .box:nth-child(3) { background-color: blue; }
+    </style>
+</head>
+<body>
+<div class="box"></div>
+<div class="box"></div>
+<div class="box"></div>
+</body>
+</html>
