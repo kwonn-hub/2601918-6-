@@ -1,10 +1,20 @@
-<div class="directory_box _list_area"> 
-    <a class="directory_list _qna_list"> 
-        <li><a href="#">전체</a></li> 
-        <li><a href="#">교육, 학문</a></li> 
-        <li><a href="#">컴퓨터통신</a></li> 
-        <li><a href="#">엔터테인먼트, 예술</a></li> 
-        <li><a href="#">생활</a></li> 
-        <li><a href="#">건강</a></li> 
-    </ul>
-</div>
+<body> 
+    <table border="1"> 
+        <tr> 
+            <th colspan="2">지역별 홍차</th> 
+        </tr> 
+        <tr> 
+            <th rowspan="3">중국</th> 
+            <td>정산소종</td> 
+        </tr> 
+        <tr><td>기문</td></tr> 
+        <tr><td>운남</td></tr> 
+        <tr> 
+            <th rowspan="4">인도 및 스리랑카</th> 
+            <td>아삼</td> 
+        </tr> 
+        <tr><td>실론</td></tr> 
+        <tr><td>다질링</td></tr> 
+        <tr><td>닐기리</td></tr> 
+    </table>
+</body>
